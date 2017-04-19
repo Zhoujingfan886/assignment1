@@ -1,0 +1,4 @@
+Coffee beans,40.0,1
+ddd,1111.0,1
+Fish fingers,12.95,2
+Metal detector,42.5,3
